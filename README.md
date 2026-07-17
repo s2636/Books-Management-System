@@ -34,3 +34,5 @@ http://localhost:9000
 <img src="https://github.com/ValueStar/Books-Management-System/blob/master/preview/4.PNG">
 <img src="https://github.com/ValueStar/Books-Management-System/blob/master/preview/5.PNG">
 <img src="https://github.com/ValueStar/Books-Management-System/blob/master/preview/6.PNG">
+
+这是 s2636 成功克隆并进行的第一次代码修改测试！
